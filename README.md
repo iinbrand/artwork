@@ -34,10 +34,13 @@ iinbrand Logo and Other Artwork.
 
 ## **Table of Contents**
 
-* **[Logo](#logo)**
-* **[Device](#device)**
-* **[itunes Connect](#)**
-* **[License](#license)**
+###[Logo](logo)
+
+###[Device](device)
+
+###[itunes Connect]()
+
+###[License](license)
 
 
 
@@ -76,3 +79,5 @@ iinbrand Logo and Other Artwork.
 
 The iinbrand Artwork is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
+
+[ico-iinbrand]: https://img.shields.io/badge/iinbrand-v1.0-1ab691.svg?style=flat-square
