@@ -8,7 +8,7 @@ iinbrand Logo and Other Artwork.
 </p>
 <p align="center">
     <a href="https://npmjs.org/package/gh-badges">
-        <img src="https://img.shields.io/github/tag/iinbrand/artwork.svg"
+        <img src="https://img.shields.io/github/tag/iinbrand/artwork.svg?label=version"
              alt="tag">
     </a>
     <a href="#">
