@@ -1,29 +1,29 @@
-# Artwork ![iinbrand](https://cdn.rawgit.com/iinbrand/artwork/master/logo/logox32.svg)
+# Artwork ![logo][logo]
 
-iinbrand Logo and Other Artwork.
+The iinbrand logo and other media.
+
+>**Use** ```https://cdn.iinb.ga/img/path/to/files```
 
 <p align="center">
-    <img src="https://cdn.rawgit.com/iinbrand/artwork/master/logo/logox120.svg"
-         height="130">
+    <img src="https://cdn.iinb.ga/img/logo/logox120.svg"height="130">
 </p>
 <p align="center">
-    <a href="https://npmjs.org/package/gh-badges">
-        <img src="https://img.shields.io/github/tag/iinbrand/artwork.svg?label=version"
-             alt="tag">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/iinbrand-application-brightgreen.svg"
-             alt="Application">
-    </a>
-    <a href="https://npmjs.org/package/gh-badges">
-        <img src="https://img.shields.io/github/stars/iinbrand/artwork.svg?style=social&label=Star"
-             alt="star">
-    </a>
-    <a href="https://twitter.com/intent/follow?ref_src=twsrc%5Etfw&region=follow_link&screen_name=iinbrand&tw_p=followbutton">
-        <img src="https://img.shields.io/twitter/follow/iinbrand.svg?style=social"
-             alt="follow">
-    </a>
+
+<a href="#">
+    <img src="https://img.shields.io/badge/iinbrand-artwork-1ab691.svg?style=flat">
+</a>
+
+<a href="">
+    <img src="https://img.shields.io/github/tag/iinbrand/artwork.svg?style=flat&label=version">
+</a>
+
+<a href="https://twitter.com/intent/follow?ref_src=twsrc%5Etfw&region=follow_link&screen_name=iinbrand&tw_p=followbutton">
+    <img src="https://img.shields.io/twitter/follow/iinbrand.svg?style=social"alt="follow">
+</a>
+
 </p>
+
+<br>
 
 <p align="center"><sup><strong>More information for iinbrand. 
     <a href="https://iinbrand.com/">Homepage</a> | 
@@ -75,9 +75,11 @@ iinbrand Logo and Other Artwork.
 - [itune connect media](itune-connect)
 
 
-### License
+---
+© 2016 [iinbrand.][link-iinbrand]
 
-The iinbrand Artwork is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
-
+[link-iinbrand]: https://iinbrand.com
 
 [ico-iinbrand]: https://img.shields.io/badge/iinbrand-v1.0-1ab691.svg?style=flat-square
+[logo]: https://cdn.iinb.ga/img/logo/logox32.svg "Logo"
+[banner]: https://cdn.iinb.ga/img/logo/logox120.svg "Logo banner"
