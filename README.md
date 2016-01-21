@@ -25,8 +25,8 @@ The iinbrand logo and other media.
 
 <br>
 
-<p align="center"><sup><strong>More information for iinbrand. 
-    <a href="https://iinbrand.com/">Homepage</a> | 
+<p align="center"><sup><strong>More information for iinbrand.
+    <a href="https://iinbrand.com/">Homepage</a> |
     <a href="https://iinb.ga/tw">Twitter</a> |
     <a href="https://iinb.ga/fb">Facebook</a> |
 </strong></sup>
@@ -34,13 +34,13 @@ The iinbrand logo and other media.
 
 ## **Table of Contents**
 
-###[Logo](logo)
+### [Logo](logo)
 
-###[Device](device)
+### [Device](device)
 
-###[itunes Connect]()
+### [itunes Connect]()
 
-###[License](license)
+### [License](license)
 
 
 
